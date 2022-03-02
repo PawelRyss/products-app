@@ -1,1 +1,1 @@
-console.log (“Trochę szajsu”)
+ (“Trochę szajsu”)
